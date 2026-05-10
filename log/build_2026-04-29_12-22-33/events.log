@@ -1,0 +1,414 @@
+[0.000000] (-) TimerEvent: {}
+[0.000763] (dobot_viz) JobQueued: {'identifier': 'dobot_viz', 'dependencies': OrderedDict()}
+[0.001077] (robot_viz) JobQueued: {'identifier': 'robot_viz', 'dependencies': OrderedDict()}
+[0.001392] (dobot_viz) JobStarted: {'identifier': 'dobot_viz'}
+[0.098505] (-) TimerEvent: {}
+[0.202994] (-) TimerEvent: {}
+[0.307128] (-) TimerEvent: {}
+[0.394595] (robot_viz) JobStarted: {'identifier': 'robot_viz'}
+[0.407566] (-) TimerEvent: {}
+[0.511887] (-) TimerEvent: {}
+[0.615665] (-) TimerEvent: {}
+[0.720702] (-) TimerEvent: {}
+[0.824629] (-) TimerEvent: {}
+[0.926075] (-) TimerEvent: {}
+[1.031676] (-) TimerEvent: {}
+[1.137757] (-) TimerEvent: {}
+[1.241876] (-) TimerEvent: {}
+[1.343101] (-) TimerEvent: {}
+[1.445956] (-) TimerEvent: {}
+[1.550174] (-) TimerEvent: {}
+[1.654488] (-) TimerEvent: {}
+[1.759771] (-) TimerEvent: {}
+[1.863470] (-) TimerEvent: {}
+[1.966778] (-) TimerEvent: {}
+[2.071005] (-) TimerEvent: {}
+[2.175053] (-) TimerEvent: {}
+[2.280230] (-) TimerEvent: {}
+[2.384901] (-) TimerEvent: {}
+[2.488553] (-) TimerEvent: {}
+[2.592232] (-) TimerEvent: {}
+[2.696556] (-) TimerEvent: {}
+[2.802551] (-) TimerEvent: {}
+[2.905536] (-) TimerEvent: {}
+[3.009655] (-) TimerEvent: {}
+[3.115394] (-) TimerEvent: {}
+[3.217399] (-) TimerEvent: {}
+[3.321370] (-) TimerEvent: {}
+[3.425407] (-) TimerEvent: {}
+[3.528663] (-) TimerEvent: {}
+[3.632422] (-) TimerEvent: {}
+[3.733648] (-) TimerEvent: {}
+[3.834885] (-) TimerEvent: {}
+[3.935729] (-) TimerEvent: {}
+[4.039090] (-) TimerEvent: {}
+[4.142515] (-) TimerEvent: {}
+[4.246161] (-) TimerEvent: {}
+[4.350661] (-) TimerEvent: {}
+[4.454068] (-) TimerEvent: {}
+[4.557387] (-) TimerEvent: {}
+[4.659480] (-) TimerEvent: {}
+[4.760561] (-) TimerEvent: {}
+[4.868168] (-) TimerEvent: {}
+[4.969664] (-) TimerEvent: {}
+[5.076962] (-) TimerEvent: {}
+[5.183008] (-) TimerEvent: {}
+[5.286629] (-) TimerEvent: {}
+[5.390321] (-) TimerEvent: {}
+[5.495564] (-) TimerEvent: {}
+[5.597020] (-) TimerEvent: {}
+[5.700622] (-) TimerEvent: {}
+[5.806230] (-) TimerEvent: {}
+[5.914293] (-) TimerEvent: {}
+[6.016698] (-) TimerEvent: {}
+[6.122712] (-) TimerEvent: {}
+[6.266391] (-) TimerEvent: {}
+[6.370937] (-) TimerEvent: {}
+[6.483124] (-) TimerEvent: {}
+[6.588412] (-) TimerEvent: {}
+[6.695986] (-) TimerEvent: {}
+[6.801876] (-) TimerEvent: {}
+[6.911401] (-) TimerEvent: {}
+[7.013444] (-) TimerEvent: {}
+[7.117618] (-) TimerEvent: {}
+[7.221428] (-) TimerEvent: {}
+[7.326091] (-) TimerEvent: {}
+[7.430178] (-) TimerEvent: {}
+[7.533938] (-) TimerEvent: {}
+[7.638401] (-) TimerEvent: {}
+[7.745291] (-) TimerEvent: {}
+[7.848607] (-) TimerEvent: {}
+[7.953749] (-) TimerEvent: {}
+[8.056375] (-) TimerEvent: {}
+[8.159211] (-) TimerEvent: {}
+[8.265318] (-) TimerEvent: {}
+[8.376442] (-) TimerEvent: {}
+[8.483309] (-) TimerEvent: {}
+[8.587425] (-) TimerEvent: {}
+[8.691874] (-) TimerEvent: {}
+[8.798466] (-) TimerEvent: {}
+[8.905955] (-) TimerEvent: {}
+[9.008735] (-) TimerEvent: {}
+[9.111289] (-) TimerEvent: {}
+[9.213529] (-) TimerEvent: {}
+[9.317428] (-) TimerEvent: {}
+[9.420965] (-) TimerEvent: {}
+[9.525929] (-) TimerEvent: {}
+[9.628385] (-) TimerEvent: {}
+[9.738552] (-) TimerEvent: {}
+[9.840054] (-) TimerEvent: {}
+[9.945357] (-) TimerEvent: {}
+[10.047042] (-) TimerEvent: {}
+[10.151935] (-) TimerEvent: {}
+[10.257428] (-) TimerEvent: {}
+[10.362976] (-) TimerEvent: {}
+[10.468329] (-) TimerEvent: {}
+[10.573150] (-) TimerEvent: {}
+[10.683173] (-) TimerEvent: {}
+[10.785685] (-) TimerEvent: {}
+[10.889323] (-) TimerEvent: {}
+[10.992459] (-) TimerEvent: {}
+[11.093797] (-) TimerEvent: {}
+[11.195949] (-) TimerEvent: {}
+[11.299824] (-) TimerEvent: {}
+[11.403538] (-) TimerEvent: {}
+[11.507073] (-) TimerEvent: {}
+[11.608589] (-) TimerEvent: {}
+[11.712295] (-) TimerEvent: {}
+[11.818817] (-) TimerEvent: {}
+[11.925413] (-) TimerEvent: {}
+[12.026892] (-) TimerEvent: {}
+[12.131328] (-) TimerEvent: {}
+[12.236645] (-) TimerEvent: {}
+[12.340839] (-) TimerEvent: {}
+[12.444323] (-) TimerEvent: {}
+[12.549742] (-) TimerEvent: {}
+[12.660364] (-) TimerEvent: {}
+[12.772138] (-) TimerEvent: {}
+[12.878512] (-) TimerEvent: {}
+[12.980031] (-) TimerEvent: {}
+[13.084842] (-) TimerEvent: {}
+[13.191964] (-) TimerEvent: {}
+[13.295415] (-) TimerEvent: {}
+[13.401001] (-) TimerEvent: {}
+[13.503877] (-) TimerEvent: {}
+[13.605758] (-) TimerEvent: {}
+[13.707322] (-) TimerEvent: {}
+[13.810749] (-) TimerEvent: {}
+[13.917796] (-) TimerEvent: {}
+[14.020418] (-) TimerEvent: {}
+[14.123475] (-) TimerEvent: {}
+[14.227743] (-) TimerEvent: {}
+[14.332389] (-) TimerEvent: {}
+[14.436866] (-) TimerEvent: {}
+[14.541128] (-) TimerEvent: {}
+[14.645103] (-) TimerEvent: {}
+[14.746175] (-) TimerEvent: {}
+[14.848192] (-) TimerEvent: {}
+[14.954001] (-) TimerEvent: {}
+[15.055551] (-) TimerEvent: {}
+[15.160542] (-) TimerEvent: {}
+[15.267645] (-) TimerEvent: {}
+[15.377337] (-) TimerEvent: {}
+[15.478816] (-) TimerEvent: {}
+[15.582905] (-) TimerEvent: {}
+[15.684436] (-) TimerEvent: {}
+[15.790892] (-) TimerEvent: {}
+[15.893296] (-) TimerEvent: {}
+[15.995903] (-) TimerEvent: {}
+[16.099847] (-) TimerEvent: {}
+[16.203388] (-) TimerEvent: {}
+[16.313649] (-) TimerEvent: {}
+[16.417303] (-) TimerEvent: {}
+[16.524630] (-) TimerEvent: {}
+[16.629692] (-) TimerEvent: {}
+[16.738219] (-) TimerEvent: {}
+[16.843883] (-) TimerEvent: {}
+[16.949613] (-) TimerEvent: {}
+[17.052786] (-) TimerEvent: {}
+[17.158716] (-) TimerEvent: {}
+[17.273164] (-) TimerEvent: {}
+[17.376613] (-) TimerEvent: {}
+[17.483262] (-) TimerEvent: {}
+[17.588750] (-) TimerEvent: {}
+[17.690105] (-) TimerEvent: {}
+[17.796848] (-) TimerEvent: {}
+[17.903786] (-) TimerEvent: {}
+[18.024855] (-) TimerEvent: {}
+[18.130739] (-) TimerEvent: {}
+[18.234470] (-) TimerEvent: {}
+[18.339858] (-) TimerEvent: {}
+[18.443819] (-) TimerEvent: {}
+[18.549263] (-) TimerEvent: {}
+[18.655311] (-) TimerEvent: {}
+[18.762498] (-) TimerEvent: {}
+[18.869386] (-) TimerEvent: {}
+[18.974308] (-) TimerEvent: {}
+[19.077228] (-) TimerEvent: {}
+[19.180870] (-) TimerEvent: {}
+[19.283234] (-) TimerEvent: {}
+[19.387316] (-) TimerEvent: {}
+[19.491560] (-) TimerEvent: {}
+[19.598667] (-) TimerEvent: {}
+[19.708411] (-) TimerEvent: {}
+[19.813797] (-) TimerEvent: {}
+[19.916466] (-) TimerEvent: {}
+[20.013986] (dobot_viz) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/dobot_viz', 'build', '--build-base', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/build', 'install', '--record', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/dobot_viz', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yasiru', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'HOME': '/home/yasiru', 'OLDPWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu-24.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'yasiru', 'NAME': 'DESKTOP-Q4KDUO9', 'WSL_INTEROP': '/run/WSL/497_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Program Files/Go/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawbe:/mnt/c/Users/U S E R/AppData/Roaming/npm:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Ollama:/mnt/c/Users/U S E R/AppData/Local/Microsoft/WindowsApps:/snap/bin', 'WT_SESSION': '414c27c8-0e6b-47a1-a5b5-d2fd564569ca', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[20.051558] (-) TimerEvent: {}
+[20.141500] (robot_viz) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/robot_viz', 'build', '--build-base', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build', 'install', '--record', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yasiru', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'HOME': '/home/yasiru', 'OLDPWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu-24.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'yasiru', 'NAME': 'DESKTOP-Q4KDUO9', 'WSL_INTEROP': '/run/WSL/497_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Program Files/Go/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawbe:/mnt/c/Users/U S E R/AppData/Roaming/npm:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Ollama:/mnt/c/Users/U S E R/AppData/Local/Microsoft/WindowsApps:/snap/bin', 'WT_SESSION': '414c27c8-0e6b-47a1-a5b5-d2fd564569ca', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[20.230405] (-) TimerEvent: {}
+[20.337513] (-) TimerEvent: {}
+[20.459945] (-) TimerEvent: {}
+[20.563758] (-) TimerEvent: {}
+[20.667598] (-) TimerEvent: {}
+[20.775822] (-) TimerEvent: {}
+[20.879585] (-) TimerEvent: {}
+[20.984075] (-) TimerEvent: {}
+[21.086346] (-) TimerEvent: {}
+[21.189553] (-) TimerEvent: {}
+[21.292316] (-) TimerEvent: {}
+[21.398668] (-) TimerEvent: {}
+[21.507310] (-) TimerEvent: {}
+[21.610621] (-) TimerEvent: {}
+[21.716185] (-) TimerEvent: {}
+[21.820349] (-) TimerEvent: {}
+[21.922684] (-) TimerEvent: {}
+[22.037310] (-) TimerEvent: {}
+[22.139813] (-) TimerEvent: {}
+[22.244587] (-) TimerEvent: {}
+[22.347357] (-) TimerEvent: {}
+[22.453821] (-) TimerEvent: {}
+[22.556474] (-) TimerEvent: {}
+[22.658863] (-) TimerEvent: {}
+[22.763573] (-) TimerEvent: {}
+[22.865571] (-) TimerEvent: {}
+[22.968251] (-) TimerEvent: {}
+[23.090965] (-) TimerEvent: {}
+[23.198760] (-) TimerEvent: {}
+[23.301379] (-) TimerEvent: {}
+[23.405005] (-) TimerEvent: {}
+[23.508235] (-) TimerEvent: {}
+[23.615074] (-) TimerEvent: {}
+[23.719454] (-) TimerEvent: {}
+[23.824424] (-) TimerEvent: {}
+[23.928425] (-) TimerEvent: {}
+[24.030014] (-) TimerEvent: {}
+[24.133326] (-) TimerEvent: {}
+[24.242777] (-) TimerEvent: {}
+[24.347301] (-) TimerEvent: {}
+[24.452009] (-) TimerEvent: {}
+[24.555508] (-) TimerEvent: {}
+[24.661772] (-) TimerEvent: {}
+[24.769869] (-) TimerEvent: {}
+[24.871032] (-) TimerEvent: {}
+[24.972231] (-) TimerEvent: {}
+[25.078303] (-) TimerEvent: {}
+[25.190505] (-) TimerEvent: {}
+[25.294849] (-) TimerEvent: {}
+[25.395729] (-) TimerEvent: {}
+[25.497432] (-) TimerEvent: {}
+[25.603226] (-) TimerEvent: {}
+[25.705898] (-) TimerEvent: {}
+[25.808509] (-) TimerEvent: {}
+[25.908975] (dobot_viz) StdoutLine: {'line': b'running egg_info\n'}
+[25.913571] (-) TimerEvent: {}
+[26.007966] (dobot_viz) StdoutLine: {'line': b'writing ../../build/dobot_viz/dobot_viz.egg-info/PKG-INFO\n'}
+[26.013672] (-) TimerEvent: {}
+[26.055967] (dobot_viz) StdoutLine: {'line': b'writing dependency_links to ../../build/dobot_viz/dobot_viz.egg-info/dependency_links.txt\n'}
+[26.094467] (robot_viz) StdoutLine: {'line': b'running egg_info\n'}
+[26.105700] (dobot_viz) StdoutLine: {'line': b'writing requirements to ../../build/dobot_viz/dobot_viz.egg-info/requires.txt\n'}
+[26.113884] (-) TimerEvent: {}
+[26.131115] (dobot_viz) StdoutLine: {'line': b'writing top-level names to ../../build/dobot_viz/dobot_viz.egg-info/top_level.txt\n'}
+[26.215064] (-) TimerEvent: {}
+[26.222160] (robot_viz) StdoutLine: {'line': b'writing ../../build/robot_viz/robot_viz.egg-info/PKG-INFO\n'}
+[26.266594] (robot_viz) StdoutLine: {'line': b'writing dependency_links to ../../build/robot_viz/robot_viz.egg-info/dependency_links.txt\n'}
+[26.315446] (-) TimerEvent: {}
+[26.356839] (robot_viz) StdoutLine: {'line': b'writing requirements to ../../build/robot_viz/robot_viz.egg-info/requires.txt\n'}
+[26.386727] (robot_viz) StdoutLine: {'line': b'writing top-level names to ../../build/robot_viz/robot_viz.egg-info/top_level.txt\n'}
+[26.415604] (-) TimerEvent: {}
+[26.518821] (-) TimerEvent: {}
+[26.620703] (-) TimerEvent: {}
+[26.683501] (dobot_viz) StdoutLine: {'line': b"reading manifest file '../../build/dobot_viz/dobot_viz.egg-info/SOURCES.txt'\n"}
+[26.721696] (-) TimerEvent: {}
+[26.825563] (-) TimerEvent: {}
+[26.931941] (-) TimerEvent: {}
+[26.967863] (robot_viz) StdoutLine: {'line': b"reading manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'\n"}
+[27.033354] (-) TimerEvent: {}
+[27.070973] (dobot_viz) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[27.135189] (-) TimerEvent: {}
+[27.239768] (-) TimerEvent: {}
+[27.241879] (dobot_viz) StdoutLine: {'line': b"writing manifest file '../../build/dobot_viz/dobot_viz.egg-info/SOURCES.txt'\n"}
+[27.283809] (dobot_viz) StdoutLine: {'line': b'running build\n'}
+[27.288753] (dobot_viz) StdoutLine: {'line': b'running build_py\n'}
+[27.336986] (robot_viz) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[27.344246] (-) TimerEvent: {}
+[27.448809] (-) TimerEvent: {}
+[27.553661] (-) TimerEvent: {}
+[27.574471] (robot_viz) StdoutLine: {'line': b"writing manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'\n"}
+[27.586625] (robot_viz) StdoutLine: {'line': b'running build\n'}
+[27.590779] (robot_viz) StdoutLine: {'line': b'running build_py\n'}
+[27.593444] (dobot_viz) StdoutLine: {'line': b'running install\n'}
+[27.654940] (-) TimerEvent: {}
+[27.657638] (dobot_viz) StdoutLine: {'line': b'running install_lib\n'}
+[27.756895] (-) TimerEvent: {}
+[27.848538] (robot_viz) StdoutLine: {'line': b'running install\n'}
+[27.857115] (-) TimerEvent: {}
+[27.884473] (robot_viz) StdoutLine: {'line': b'running install_lib\n'}
+[27.958769] (-) TimerEvent: {}
+[28.062358] (-) TimerEvent: {}
+[28.168618] (-) TimerEvent: {}
+[28.272473] (-) TimerEvent: {}
+[28.304971] (dobot_viz) StdoutLine: {'line': b'running install_data\n'}
+[28.373765] (-) TimerEvent: {}
+[28.480843] (-) TimerEvent: {}
+[28.596561] (-) TimerEvent: {}
+[28.607339] (robot_viz) StdoutLine: {'line': b'running install_data\n'}
+[28.639633] (dobot_viz) StdoutLine: {'line': b'copying launch/dobot_viz_launch.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/share/dobot_viz/launch\n'}
+[28.697892] (-) TimerEvent: {}
+[28.800816] (-) TimerEvent: {}
+[28.904992] (-) TimerEvent: {}
+[28.918843] (dobot_viz) StdoutLine: {'line': b'running install_egg_info\n'}
+[29.006948] (-) TimerEvent: {}
+[29.083463] (robot_viz) StdoutLine: {'line': b'running install_egg_info\n'}
+[29.098284] (dobot_viz) StdoutLine: {'line': b"removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages/dobot_viz-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[29.107171] (-) TimerEvent: {}
+[29.154850] (robot_viz) StdoutLine: {'line': b"removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[29.208842] (-) TimerEvent: {}
+[29.353336] (-) TimerEvent: {}
+[29.458515] (-) TimerEvent: {}
+[29.472395] (dobot_viz) StdoutLine: {'line': b'Copying ../../build/dobot_viz/dobot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages/dobot_viz-0.0.0-py3.12.egg-info\n'}
+[29.560376] (-) TimerEvent: {}
+[29.664965] (-) TimerEvent: {}
+[29.699607] (robot_viz) StdoutLine: {'line': b'Copying ../../build/robot_viz/robot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info\n'}
+[29.766158] (-) TimerEvent: {}
+[29.870829] (-) TimerEvent: {}
+[29.973470] (-) TimerEvent: {}
+[30.075330] (-) TimerEvent: {}
+[30.179811] (-) TimerEvent: {}
+[30.285647] (-) TimerEvent: {}
+[30.391934] (-) TimerEvent: {}
+[30.494045] (-) TimerEvent: {}
+[30.601251] (-) TimerEvent: {}
+[30.707087] (-) TimerEvent: {}
+[30.810929] (-) TimerEvent: {}
+[30.915191] (-) TimerEvent: {}
+[31.018690] (-) TimerEvent: {}
+[31.120958] (-) TimerEvent: {}
+[31.128566] (dobot_viz) StdoutLine: {'line': b'running install_scripts\n'}
+[31.223067] (-) TimerEvent: {}
+[31.334692] (-) TimerEvent: {}
+[31.395261] (robot_viz) StdoutLine: {'line': b'running install_scripts\n'}
+[31.435326] (-) TimerEvent: {}
+[31.538668] (-) TimerEvent: {}
+[31.642381] (-) TimerEvent: {}
+[31.757554] (-) TimerEvent: {}
+[31.880045] (-) TimerEvent: {}
+[31.983237] (-) TimerEvent: {}
+[32.087143] (-) TimerEvent: {}
+[32.192370] (-) TimerEvent: {}
+[32.296197] (-) TimerEvent: {}
+[32.401988] (-) TimerEvent: {}
+[32.509147] (-) TimerEvent: {}
+[32.614532] (-) TimerEvent: {}
+[32.718944] (-) TimerEvent: {}
+[32.822401] (-) TimerEvent: {}
+[32.834235] (dobot_viz) StdoutLine: {'line': b"writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/install.log'\n"}
+[32.900013] (dobot_viz) CommandEnded: {'returncode': 0}
+[32.923353] (-) TimerEvent: {}
+[33.030799] (-) TimerEvent: {}
+[33.113820] (robot_viz) StdoutLine: {'line': b"writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log'\n"}
+[33.131526] (-) TimerEvent: {}
+[33.240523] (-) TimerEvent: {}
+[33.344607] (-) TimerEvent: {}
+[33.449413] (-) TimerEvent: {}
+[33.557778] (-) TimerEvent: {}
+[33.662057] (-) TimerEvent: {}
+[33.766746] (-) TimerEvent: {}
+[33.873231] (-) TimerEvent: {}
+[33.984452] (-) TimerEvent: {}
+[34.086900] (-) TimerEvent: {}
+[34.192804] (-) TimerEvent: {}
+[34.298377] (-) TimerEvent: {}
+[34.413503] (-) TimerEvent: {}
+[34.518929] (-) TimerEvent: {}
+[34.624269] (-) TimerEvent: {}
+[34.734829] (-) TimerEvent: {}
+[34.838902] (-) TimerEvent: {}
+[34.944723] (-) TimerEvent: {}
+[35.049479] (-) TimerEvent: {}
+[35.155548] (-) TimerEvent: {}
+[35.271961] (-) TimerEvent: {}
+[35.377191] (-) TimerEvent: {}
+[35.484447] (-) TimerEvent: {}
+[35.587427] (-) TimerEvent: {}
+[35.691553] (-) TimerEvent: {}
+[35.797373] (-) TimerEvent: {}
+[35.905543] (-) TimerEvent: {}
+[36.017797] (-) TimerEvent: {}
+[36.079589] (dobot_viz) JobEnded: {'identifier': 'dobot_viz', 'rc': 0}
+[36.182358] (-) TimerEvent: {}
+[36.185822] (robot_viz) CommandEnded: {'returncode': 0}
+[36.284303] (-) TimerEvent: {}
+[36.387850] (-) TimerEvent: {}
+[36.502597] (-) TimerEvent: {}
+[36.607464] (-) TimerEvent: {}
+[36.711872] (-) TimerEvent: {}
+[36.823361] (-) TimerEvent: {}
+[36.937931] (-) TimerEvent: {}
+[37.045404] (-) TimerEvent: {}
+[37.147035] (-) TimerEvent: {}
+[37.248012] (-) TimerEvent: {}
+[37.354254] (-) TimerEvent: {}
+[37.460772] (-) TimerEvent: {}
+[37.563727] (-) TimerEvent: {}
+[37.671544] (-) TimerEvent: {}
+[37.785023] (-) TimerEvent: {}
+[37.889539] (-) TimerEvent: {}
+[37.994978] (-) TimerEvent: {}
+[38.096273] (-) TimerEvent: {}
+[38.200649] (-) TimerEvent: {}
+[38.303747] (-) TimerEvent: {}
+[38.407939] (-) TimerEvent: {}
+[38.476861] (robot_viz) JobEnded: {'identifier': 'robot_viz', 'rc': 0}
+[38.549788] (-) TimerEvent: {}
+[38.550156] (-) EventReactorShutdown: {}

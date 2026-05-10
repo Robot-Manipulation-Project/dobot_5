@@ -1,0 +1,20 @@
+[19.820s] Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log --single-version-externally-managed install_data
+[25.703s] running egg_info
+[25.826s] writing ../../build/robot_viz/robot_viz.egg-info/PKG-INFO
+[25.881s] writing dependency_links to ../../build/robot_viz/robot_viz.egg-info/dependency_links.txt
+[25.965s] writing requirements to ../../build/robot_viz/robot_viz.egg-info/requires.txt
+[25.993s] writing top-level names to ../../build/robot_viz/robot_viz.egg-info/top_level.txt
+[26.574s] reading manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'
+[26.944s] adding license file 'LICENSE'
+[27.180s] writing manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'
+[27.191s] running build
+[27.195s] running build_py
+[27.454s] running install
+[27.491s] running install_lib
+[28.214s] running install_data
+[28.689s] running install_egg_info
+[28.759s] removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info' (and everything under it)
+[29.318s] Copying ../../build/robot_viz/robot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info
+[31.014s] running install_scripts
+[32.727s] writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log'
+[35.791s] Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log --single-version-externally-managed install_data

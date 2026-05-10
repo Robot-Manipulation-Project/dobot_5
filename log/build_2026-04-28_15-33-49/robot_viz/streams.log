@@ -1,0 +1,40 @@
+[7.492s] Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log --single-version-externally-managed install_data
+[10.239s] running egg_info
+[10.246s] creating ../../build/robot_viz/robot_viz.egg-info
+[10.277s] writing ../../build/robot_viz/robot_viz.egg-info/PKG-INFO
+[10.362s] writing dependency_links to ../../build/robot_viz/robot_viz.egg-info/dependency_links.txt
+[10.429s] writing requirements to ../../build/robot_viz/robot_viz.egg-info/requires.txt
+[10.465s] writing top-level names to ../../build/robot_viz/robot_viz.egg-info/top_level.txt
+[10.511s] writing manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'
+[10.788s] reading manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'
+[10.944s] adding license file 'LICENSE'
+[11.078s] writing manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'
+[11.085s] running build
+[11.090s] running build_py
+[11.158s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build
+[11.167s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib
+[11.180s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib/robot_viz
+[11.228s] copying robot_viz/__init__.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib/robot_viz
+[11.371s] copying robot_viz/py.typed -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib/robot_viz
+[11.617s] running install
+[11.705s] running install_lib
+[11.960s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz
+[12.010s] copying /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib/robot_viz/py.typed -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz
+[12.131s] copying /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build/lib/robot_viz/__init__.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz
+[12.245s] byte-compiling /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz/__init__.py to __init__.cpython-312.pyc
+[12.435s] running install_data
+[12.499s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/ament_index
+[12.513s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/ament_index/resource_index
+[12.529s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/ament_index/resource_index/packages
+[12.591s] copying resource/robot_viz -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/ament_index/resource_index/packages
+[12.671s] copying package.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz
+[12.708s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz/launch
+[12.729s] copying launch/robots_viz_launch.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz/launch
+[12.805s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz/config
+[12.829s] creating /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz/urdf
+[12.874s] copying urdf/example2robot.urdf.xacro -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz/urdf
+[12.995s] running install_egg_info
+[13.085s] Copying ../../build/robot_viz/robot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info
+[14.156s] running install_scripts
+[15.136s] writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log'
+[15.195s] Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log --single-version-externally-managed install_data

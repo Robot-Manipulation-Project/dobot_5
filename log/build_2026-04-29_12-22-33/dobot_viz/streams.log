@@ -1,0 +1,21 @@
+[20.048s] Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/dobot_viz': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dobot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/install.log --single-version-externally-managed install_data
+[25.910s] running egg_info
+[26.009s] writing ../../build/dobot_viz/dobot_viz.egg-info/PKG-INFO
+[26.056s] writing dependency_links to ../../build/dobot_viz/dobot_viz.egg-info/dependency_links.txt
+[26.107s] writing requirements to ../../build/dobot_viz/dobot_viz.egg-info/requires.txt
+[26.132s] writing top-level names to ../../build/dobot_viz/dobot_viz.egg-info/top_level.txt
+[26.687s] reading manifest file '../../build/dobot_viz/dobot_viz.egg-info/SOURCES.txt'
+[27.075s] adding license file 'LICENSE'
+[27.262s] writing manifest file '../../build/dobot_viz/dobot_viz.egg-info/SOURCES.txt'
+[27.286s] running build
+[27.289s] running build_py
+[27.593s] running install
+[27.657s] running install_lib
+[28.309s] running install_data
+[28.640s] copying launch/dobot_viz_launch.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/share/dobot_viz/launch
+[28.923s] running install_egg_info
+[29.099s] removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages/dobot_viz-0.0.0-py3.12.egg-info' (and everything under it)
+[29.475s] Copying ../../build/dobot_viz/dobot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages/dobot_viz-0.0.0-py3.12.egg-info
+[31.137s] running install_scripts
+[32.834s] writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/install.log'
+[32.903s] Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/dobot_viz' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/dobot_viz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dobot_viz build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/dobot_viz/install.log --single-version-externally-managed install_data

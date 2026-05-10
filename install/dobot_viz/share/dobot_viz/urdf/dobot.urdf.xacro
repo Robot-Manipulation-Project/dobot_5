@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="dobot_magician">
+
+  <xacro:property name="L0" value="0.056" />
+  <xacro:property name="L0size" value="0.08" />
+  <xacro:property name="L1" value="0.082" />
+  <xacro:property name="L1radius" value="0.03" />
+  <xacro:property name="L2" value="0.135" />
+  <xacro:property name="L2radius" value="0.02" />
+  <xacro:property name="L3" value="0.147" />
+  <xacro:property name="L3radius" value="0.02" />
+  <xacro:property name="L4" value="0.06" />
+  <xacro:property name="L4size" value="0.008" />
+  <xacro:property name="L5" value="0.07" />
+  <xacro:property name="L5size" value="0.008" />
+  <xacro:property name="eesize" value="0.02" />
+  
+  <xacro:property name="J1MIN" value="${-pi/2}" />
+  <xacro:property name="J1MAX" value="${pi/2}" />
+  <xacro:property name="J2MIN" value="0" />
+  <xacro:property name="J2MAX" value="${(70*pi)/180}" />
+  <xacro:property name="J3MIN" value="${(-15*pi)/180}" />
+  <xacro:property name="J3MAX" value="${(40*pi)/180}" />
+  <xacro:property name="J4MIN" value="${-pi/2}" />
+  <xacro:property name="J4MAX" value="${pi/2}" />
+
+  <material name="white">
+    <color rgba="0.95 0.95 0.95 1" />
+  </material>
+  <material name="dark_gray">
+    <color rgba="0.3 0.3 0.3 1" />
+  </material>
+  <material name="yellow">
+    <color rgba="1 0.84 0 1" />
+  </material>
+  <material name="black">
+    <color rgba="0.1 0.1 0.1 1"/>
+  </material>
+
+  <link name="world" />
+
+  <joint name="base_in_world" type="fixed">
+    <parent link="world" />
+    <child link="base" />
+    <origin xyz="0 0 0" rpy="0 0 0" />
+  </joint>
+
+  <link name="base">
+    <visual>
+      <origin xyz="0 0 0" />
+      <geometry>
+        <box size="0.5 0.5 0.01" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <joint name="link0_in_base" type="fixed">
+    <parent link="base" />
+    <child link="link0" />
+    <origin xyz="0 0 0" rpy="0 0 0" />
+  </joint>
+
+  <link name="link0">
+    <visual name="link0">
+      <origin xyz="0 0 ${L0/2}" />
+      <geometry>
+        <box size="${L0size} ${L0size} ${L0}" />
+      </geometry>
+      <material name="dark_gray" />
+    </visual>
+  </link>
+
+  <joint name="joint1" type="revolute">
+    <parent link="link0" />
+    <child link="link1" />
+    <origin xyz="0 0 ${L0}" rpy="0 0 0" />
+    <axis xyz="0 0 1" />
+    <limit lower="${J1MIN}" upper="${J1MAX}" effort="1" velocity="1" />
+  </joint>
+  
+  <link name="link1">
+    <visual name="link1">
+      <origin xyz="0 0 ${L1/2}" />
+      <geometry>
+        <cylinder radius="${L1radius}" length="${L1}" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <joint name="joint2" type="revolute">
+    <parent link="link1" />
+    <child link="link2" />
+    <origin xyz="0 0 ${L1}" rpy="0 0 0" />
+    <axis xyz="0 1 0" />
+    <limit lower="${J2MIN}" upper="${J2MAX}" effort="1" velocity="0.5" />
+  </joint>
+
+  <link name="link2">
+    <visual name="link2">
+      <origin xyz="0 0 ${L2/2}" rpy="0 0 ${pi/2}" />
+      <geometry>
+        <cylinder radius="${L2radius}" length="${L2}" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <joint name="midlle_joint1" type="fixed">
+    <parent link="link2" />
+    <child link="middle_link" />
+    <origin xyz="0 0 ${L2}" rpy="0 0 0" />
+  </joint>
+
+  <link name="middle_link">
+    <visual>
+      <origin xyz="0 0 0" rpy="${pi/2} 0 0" />
+      <geometry><cylinder radius="${L2radius}" length="0.03" /></geometry>
+      <material name="dark_gray" />
+    </visual>
+  </link>
+
+  <joint name="joint3" type="revolute">
+    <parent link="link2" />
+    <child link="link3" />
+    <origin xyz="0 0 ${L2}" rpy="0 0 0" />
+    <axis xyz="0 1 0" />
+    <limit lower="${J3MIN}" upper="${J3MAX}" effort="1" velocity="1" />
+  </joint>
+
+  <link name="link3">
+    <visual name="link3">
+      <origin xyz="${L3/2} 0 0" rpy="${pi/2} 0 0" />
+      <geometry>
+        <box size="${L3} ${L3radius} ${L3radius}" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <link name="mimic" />
+
+  <joint name="mimic_1" type="revolute">
+    <parent link="link3"/>
+    <child link="mimic"/>
+    <origin xyz="${L3} 0 0" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="${-pi}" upper="${pi}" effort="1" velocity="1"/>
+    <mimic joint="joint2" multiplier="-1.0" offset="0.0"/>
+  </joint>
+
+  <joint name="mimic_2" type="revolute">
+    <parent link="mimic"/>
+    <child link="link4"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="${-pi}" upper="${pi}" effort="1" velocity="1.0"/>
+    <mimic joint="joint3" multiplier="-1.0" offset="0.0"/>
+  </joint>
+
+  <link name="link4">
+    <visual name="link4">
+      <origin xyz="${L4/2} 0 0" rpy="${pi/2} 0 0"/>
+      <geometry>
+        <box size="${L4} ${L4size} ${L4size}" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <joint name="joint_middle2" type="fixed">
+    <parent link="link4" />
+    <child link="middle_link2" />
+    <origin xyz="${L4} 0 0" rpy="0 0 0" />
+  </joint>
+
+  <link name="middle_link2">
+    <visual>
+      <origin xyz="0 0 0" />
+      <geometry>
+        <box size="${L4/2} ${eesize} ${eesize}" />
+      </geometry>
+      <material name="dark_gray" />
+    </visual>
+  </link>
+
+  <joint name="joint4" type="revolute">
+    <parent link="link4" />
+    <child link="link5" />
+    <origin xyz="${L4} 0 0" rpy="0 0 0" />
+    <axis xyz="0 0 1" />
+    <limit lower="${J1MIN}" upper="${J1MAX}" effort="1" velocity="0.5" />
+  </joint>
+
+  <link name="link5">
+    <visual name="link5">
+      <origin xyz="0 0 ${-L5/2}" rpy="0 ${pi/2} 0"/>
+      <geometry>
+        <box size="${L5} ${L5size} ${L5size}" />
+      </geometry>
+      <material name="white" />
+    </visual>
+  </link>
+
+  <joint name="ee_joint" type="fixed">
+    <parent link="link5" />
+    <child link="ee" />
+    <origin xyz="0 0 ${-L5}" rpy="0 0 0" />
+  </joint>
+
+  <link name="ee">
+    <visual name="ee">
+      <origin xyz="0 0 0" />
+      <geometry>
+        <box size="${eesize} ${eesize} ${eesize}" />
+      </geometry>
+      <material name="yellow" />
+    </visual>
+  </link>
+
+
+</robot>

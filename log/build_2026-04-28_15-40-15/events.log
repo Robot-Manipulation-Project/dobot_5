@@ -1,0 +1,235 @@
+[0.000000] (-) TimerEvent: {}
+[0.000815] (robot_viz) JobQueued: {'identifier': 'robot_viz', 'dependencies': OrderedDict()}
+[0.001526] (robot_viz) JobStarted: {'identifier': 'robot_viz'}
+[0.093267] (-) TimerEvent: {}
+[0.195837] (-) TimerEvent: {}
+[0.296773] (-) TimerEvent: {}
+[0.399197] (-) TimerEvent: {}
+[0.503031] (-) TimerEvent: {}
+[0.603921] (-) TimerEvent: {}
+[0.704696] (-) TimerEvent: {}
+[0.805347] (-) TimerEvent: {}
+[0.909892] (-) TimerEvent: {}
+[1.011011] (-) TimerEvent: {}
+[1.111733] (-) TimerEvent: {}
+[1.215710] (-) TimerEvent: {}
+[1.317078] (-) TimerEvent: {}
+[1.418686] (-) TimerEvent: {}
+[1.521655] (-) TimerEvent: {}
+[1.623809] (-) TimerEvent: {}
+[1.725868] (-) TimerEvent: {}
+[1.827622] (-) TimerEvent: {}
+[1.928820] (-) TimerEvent: {}
+[2.033730] (-) TimerEvent: {}
+[2.136726] (-) TimerEvent: {}
+[2.239112] (-) TimerEvent: {}
+[2.340719] (-) TimerEvent: {}
+[2.442287] (-) TimerEvent: {}
+[2.549163] (-) TimerEvent: {}
+[2.651936] (-) TimerEvent: {}
+[2.753682] (-) TimerEvent: {}
+[2.856221] (-) TimerEvent: {}
+[2.958674] (-) TimerEvent: {}
+[3.059760] (-) TimerEvent: {}
+[3.166409] (-) TimerEvent: {}
+[3.268541] (-) TimerEvent: {}
+[3.369981] (-) TimerEvent: {}
+[3.471756] (-) TimerEvent: {}
+[3.573279] (-) TimerEvent: {}
+[3.675519] (-) TimerEvent: {}
+[3.777002] (-) TimerEvent: {}
+[3.879769] (-) TimerEvent: {}
+[3.981838] (-) TimerEvent: {}
+[4.083886] (-) TimerEvent: {}
+[4.189553] (-) TimerEvent: {}
+[4.291209] (-) TimerEvent: {}
+[4.392901] (-) TimerEvent: {}
+[4.496087] (-) TimerEvent: {}
+[4.597019] (-) TimerEvent: {}
+[4.697631] (-) TimerEvent: {}
+[4.803484] (-) TimerEvent: {}
+[4.907465] (-) TimerEvent: {}
+[5.010537] (-) TimerEvent: {}
+[5.111129] (-) TimerEvent: {}
+[5.212149] (-) TimerEvent: {}
+[5.313939] (-) TimerEvent: {}
+[5.417037] (-) TimerEvent: {}
+[5.517492] (-) TimerEvent: {}
+[5.618388] (-) TimerEvent: {}
+[5.719227] (-) TimerEvent: {}
+[5.821854] (-) TimerEvent: {}
+[5.924590] (-) TimerEvent: {}
+[6.028316] (-) TimerEvent: {}
+[6.132168] (-) TimerEvent: {}
+[6.232853] (-) TimerEvent: {}
+[6.333882] (-) TimerEvent: {}
+[6.435335] (-) TimerEvent: {}
+[6.538466] (-) TimerEvent: {}
+[6.639873] (-) TimerEvent: {}
+[6.743499] (-) TimerEvent: {}
+[6.847390] (-) TimerEvent: {}
+[6.950697] (-) TimerEvent: {}
+[7.054738] (-) TimerEvent: {}
+[7.157346] (-) TimerEvent: {}
+[7.259590] (-) TimerEvent: {}
+[7.360816] (-) TimerEvent: {}
+[7.462174] (-) TimerEvent: {}
+[7.567981] (-) TimerEvent: {}
+[7.671450] (-) TimerEvent: {}
+[7.772467] (-) TimerEvent: {}
+[7.874726] (-) TimerEvent: {}
+[7.978214] (-) TimerEvent: {}
+[8.079655] (-) TimerEvent: {}
+[8.180471] (-) TimerEvent: {}
+[8.281575] (-) TimerEvent: {}
+[8.385960] (-) TimerEvent: {}
+[8.487570] (-) TimerEvent: {}
+[8.588611] (-) TimerEvent: {}
+[8.608827] (robot_viz) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/robot_viz', 'build', '--build-base', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/build', 'install', '--record', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src/robot_viz', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yasiru', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'HOME': '/home/yasiru', 'OLDPWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/src', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu-24.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'yasiru', 'NAME': 'DESKTOP-Q4KDUO9', 'WSL_INTEROP': '/run/WSL/497_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Program Files/Go/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawbe:/mnt/c/Users/U S E R/AppData/Roaming/npm:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/Ollama:/mnt/c/Users/U S E R/AppData/Local/Microsoft/WindowsApps:/snap/bin', 'WT_SESSION': '414c27c8-0e6b-47a1-a5b5-d2fd564569ca', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[8.688891] (-) TimerEvent: {}
+[8.791765] (-) TimerEvent: {}
+[8.892983] (-) TimerEvent: {}
+[8.997785] (-) TimerEvent: {}
+[9.100257] (-) TimerEvent: {}
+[9.202594] (-) TimerEvent: {}
+[9.305612] (-) TimerEvent: {}
+[9.408965] (-) TimerEvent: {}
+[9.510325] (-) TimerEvent: {}
+[9.611745] (-) TimerEvent: {}
+[9.712809] (-) TimerEvent: {}
+[9.817722] (-) TimerEvent: {}
+[9.919266] (-) TimerEvent: {}
+[10.022617] (-) TimerEvent: {}
+[10.125592] (-) TimerEvent: {}
+[10.227886] (-) TimerEvent: {}
+[10.330681] (-) TimerEvent: {}
+[10.433976] (-) TimerEvent: {}
+[10.537573] (-) TimerEvent: {}
+[10.639439] (-) TimerEvent: {}
+[10.743318] (-) TimerEvent: {}
+[10.844485] (-) TimerEvent: {}
+[10.946031] (-) TimerEvent: {}
+[11.058275] (-) TimerEvent: {}
+[11.159653] (-) TimerEvent: {}
+[11.263303] (-) TimerEvent: {}
+[11.370268] (-) TimerEvent: {}
+[11.473193] (-) TimerEvent: {}
+[11.590068] (-) TimerEvent: {}
+[11.691765] (-) TimerEvent: {}
+[11.793774] (-) TimerEvent: {}
+[11.896085] (-) TimerEvent: {}
+[11.999166] (-) TimerEvent: {}
+[12.102370] (-) TimerEvent: {}
+[12.206258] (-) TimerEvent: {}
+[12.307384] (-) TimerEvent: {}
+[12.411762] (-) TimerEvent: {}
+[12.513871] (-) TimerEvent: {}
+[12.616948] (-) TimerEvent: {}
+[12.718447] (-) TimerEvent: {}
+[12.821653] (-) TimerEvent: {}
+[12.846071] (robot_viz) StdoutLine: {'line': b'running egg_info\n'}
+[12.922043] (-) TimerEvent: {}
+[12.991613] (robot_viz) StdoutLine: {'line': b'writing ../../build/robot_viz/robot_viz.egg-info/PKG-INFO\n'}
+[13.022388] (-) TimerEvent: {}
+[13.065105] (robot_viz) StdoutLine: {'line': b'writing dependency_links to ../../build/robot_viz/robot_viz.egg-info/dependency_links.txt\n'}
+[13.122631] (-) TimerEvent: {}
+[13.131327] (robot_viz) StdoutLine: {'line': b'writing requirements to ../../build/robot_viz/robot_viz.egg-info/requires.txt\n'}
+[13.144263] (robot_viz) StdoutLine: {'line': b'writing top-level names to ../../build/robot_viz/robot_viz.egg-info/top_level.txt\n'}
+[13.222927] (-) TimerEvent: {}
+[13.325880] (-) TimerEvent: {}
+[13.427739] (-) TimerEvent: {}
+[13.531108] (-) TimerEvent: {}
+[13.532953] (robot_viz) StdoutLine: {'line': b"reading manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'\n"}
+[13.631363] (-) TimerEvent: {}
+[13.733617] (-) TimerEvent: {}
+[13.838407] (-) TimerEvent: {}
+[13.844810] (robot_viz) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[13.938731] (-) TimerEvent: {}
+[14.017118] (robot_viz) StdoutLine: {'line': b"writing manifest file '../../build/robot_viz/robot_viz.egg-info/SOURCES.txt'\n"}
+[14.039316] (-) TimerEvent: {}
+[14.071513] (robot_viz) StdoutLine: {'line': b'running build\n'}
+[14.084768] (robot_viz) StdoutLine: {'line': b'running build_py\n'}
+[14.139887] (-) TimerEvent: {}
+[14.243010] (-) TimerEvent: {}
+[14.345064] (-) TimerEvent: {}
+[14.364010] (robot_viz) StdoutLine: {'line': b'running install\n'}
+[14.419073] (robot_viz) StdoutLine: {'line': b'running install_lib\n'}
+[14.445337] (-) TimerEvent: {}
+[14.550198] (-) TimerEvent: {}
+[14.652849] (-) TimerEvent: {}
+[14.754632] (-) TimerEvent: {}
+[14.857987] (-) TimerEvent: {}
+[14.959569] (-) TimerEvent: {}
+[15.066245] (-) TimerEvent: {}
+[15.170848] (-) TimerEvent: {}
+[15.272370] (robot_viz) StdoutLine: {'line': b'running install_data\n'}
+[15.283917] (-) TimerEvent: {}
+[15.386638] (-) TimerEvent: {}
+[15.477886] (robot_viz) StdoutLine: {'line': b'copying package.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/share/robot_viz\n'}
+[15.486691] (-) TimerEvent: {}
+[15.587455] (-) TimerEvent: {}
+[15.689348] (-) TimerEvent: {}
+[15.791391] (-) TimerEvent: {}
+[15.895926] (-) TimerEvent: {}
+[15.922252] (robot_viz) StdoutLine: {'line': b'running install_egg_info\n'}
+[15.996567] (-) TimerEvent: {}
+[16.076442] (robot_viz) StdoutLine: {'line': b"removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[16.096670] (-) TimerEvent: {}
+[16.198060] (-) TimerEvent: {}
+[16.231616] (robot_viz) StdoutLine: {'line': b'Copying ../../build/robot_viz/robot_viz.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/install/robot_viz/lib/python3.12/site-packages/robot_viz-0.0.0-py3.12.egg-info\n'}
+[16.298390] (-) TimerEvent: {}
+[16.401053] (-) TimerEvent: {}
+[16.502341] (-) TimerEvent: {}
+[16.606385] (-) TimerEvent: {}
+[16.707714] (-) TimerEvent: {}
+[16.811780] (-) TimerEvent: {}
+[16.913510] (-) TimerEvent: {}
+[17.018227] (-) TimerEvent: {}
+[17.119012] (-) TimerEvent: {}
+[17.222169] (-) TimerEvent: {}
+[17.324258] (-) TimerEvent: {}
+[17.425910] (-) TimerEvent: {}
+[17.527958] (-) TimerEvent: {}
+[17.630124] (-) TimerEvent: {}
+[17.731929] (-) TimerEvent: {}
+[17.836165] (-) TimerEvent: {}
+[17.939074] (-) TimerEvent: {}
+[18.027931] (robot_viz) StdoutLine: {'line': b'running install_scripts\n'}
+[18.039261] (-) TimerEvent: {}
+[18.140727] (-) TimerEvent: {}
+[18.242963] (-) TimerEvent: {}
+[18.345300] (-) TimerEvent: {}
+[18.447281] (-) TimerEvent: {}
+[18.548879] (-) TimerEvent: {}
+[18.651595] (-) TimerEvent: {}
+[18.752615] (-) TimerEvent: {}
+[18.855422] (-) TimerEvent: {}
+[18.957313] (-) TimerEvent: {}
+[19.061351] (-) TimerEvent: {}
+[19.164503] (-) TimerEvent: {}
+[19.265904] (-) TimerEvent: {}
+[19.292198] (robot_viz) StdoutLine: {'line': b"writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/milestone_5_redone/mxen_ws/build/robot_viz/install.log'\n"}
+[19.328672] (robot_viz) CommandEnded: {'returncode': 0}
+[19.366329] (-) TimerEvent: {}
+[19.469350] (-) TimerEvent: {}
+[19.573568] (-) TimerEvent: {}
+[19.675374] (-) TimerEvent: {}
+[19.776824] (-) TimerEvent: {}
+[19.880676] (-) TimerEvent: {}
+[19.983009] (-) TimerEvent: {}
+[20.088957] (-) TimerEvent: {}
+[20.193387] (-) TimerEvent: {}
+[20.295123] (-) TimerEvent: {}
+[20.397380] (-) TimerEvent: {}
+[20.501274] (-) TimerEvent: {}
+[20.602611] (-) TimerEvent: {}
+[20.706257] (-) TimerEvent: {}
+[20.807717] (-) TimerEvent: {}
+[20.909536] (-) TimerEvent: {}
+[21.011134] (-) TimerEvent: {}
+[21.114727] (-) TimerEvent: {}
+[21.216595] (-) TimerEvent: {}
+[21.319621] (-) TimerEvent: {}
+[21.420915] (-) TimerEvent: {}
+[21.438615] (robot_viz) JobEnded: {'identifier': 'robot_viz', 'rc': 0}
+[21.479576] (-) EventReactorShutdown: {}
